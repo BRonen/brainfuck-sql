@@ -1,0 +1,3 @@
+* Brainfuck SQL
+
+[[https://en.wikipedia.org/wiki/Brainfuck][Brainfuck]] implementation using [[https://sqlite.org/][Sqlite-compatible SQL]], inspired on my own project of [[https://github.com/BRonen/brainfuck-jq][Brainfuck in JQ]].
